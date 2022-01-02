@@ -1,6 +1,3 @@
-# IBE
-IBE implementation based on jpbc
-
 # 身份基加密 (Identity based Encryption)算法
 
 论文 [Identity-Based Encryption from the Weil Pairing](https://crypto.stanford.edu/~dabo/papers/bfibe.pdf)
